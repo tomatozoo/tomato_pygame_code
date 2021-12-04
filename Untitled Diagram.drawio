@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-04T04:40:30.664Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43" etag="l1ERJ0ZMdN3ySy5JNyeg" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-04T04:45:52.841Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43" etag="otG-btakjWy_VXAMJ0nj" version="15.9.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1104" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -92,11 +92,35 @@
         <mxCell id="yMtjG-S56oMLCAJ_Q67d-21" value="부루마블 시작" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="420" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yMtjG-S56oMLCAJ_Q67d-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="yMtjG-S56oMLCAJ_Q67d-22" value="K 토마토의 삶" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="420" y="300" width="86" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yMtjG-S56oMLCAJ_Q67d-23" value="종료" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="630" y="310" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yMtjG-S56oMLCAJ_Q67d-26" value="목숨" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="105" y="460" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMtjG-S56oMLCAJ_Q67d-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="340" as="sourcePoint" />
+            <mxPoint x="150" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yMtjG-S56oMLCAJ_Q67d-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yMtjG-S56oMLCAJ_Q67d-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="600" as="sourcePoint" />
+            <mxPoint x="145" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yMtjG-S56oMLCAJ_Q67d-31" value="1 이상" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yMtjG-S56oMLCAJ_Q67d-32" value="주사위" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="97.5" y="530" width="95" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
