@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-05T07:47:46.784Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43" etag="XwRDcrwvzDM-nokp95oA" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-05T07:55:02.899Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43" etag="Lqh2361Yg-zcLFUHoHVA" version="15.9.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1602" dy="2201" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,9 +10,10 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="게임 설명 실행" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="120" y="-1030" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
+            <mxPoint x="180.00000000000023" y="-820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-7" edge="1">
@@ -23,30 +24,80 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="SKIP" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="130" y="-940" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="Plug in lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="280" y="-920" width="120" height="40" as="geometry" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="게임 규칙 설명" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="610" y="-920" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-8" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-11" edge="1">
-          <mxGeometry x="0.3333" y="20" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="rTvLtkJgHHSLEBR_t335-1" value="K 토마토" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="-795" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rTvLtkJgHHSLEBR_t335-2" value="K 고등학교 장면" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="-800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rTvLtkJgHHSLEBR_t335-3" value="꾸벅꾸벅 조는 &lt;br&gt;토마토" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="-720" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rTvLtkJgHHSLEBR_t335-4" value="세계지리 교과서를 베고 잠든다" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="-619.5" width="110" height="69.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rTvLtkJgHHSLEBR_t335-7" value="꿈 속" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="125" y="-520" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rTvLtkJgHHSLEBR_t335-8" value="세계여행" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="-510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rTvLtkJgHHSLEBR_t335-10" value="다양한 경험을 &lt;br&gt;하는 토마토" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="125" y="-440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rTvLtkJgHHSLEBR_t335-12" value="Tomato&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="-440" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rTvLtkJgHHSLEBR_t335-13" value="알로하" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="145" y="-330" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rTvLtkJgHHSLEBR_t335-14" value="봉쥬르" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="270" y="-330" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rTvLtkJgHHSLEBR_t335-15" value="이글루" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="-330" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rTvLtkJgHHSLEBR_t335-16" value="한복" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="-330" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rTvLtkJgHHSLEBR_t335-17" value="게임 초대장을 받음" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="125" y="-210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rTvLtkJgHHSLEBR_t335-18" value="Game" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="-205" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rTvLtkJgHHSLEBR_t335-19" value="참가" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="-150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rTvLtkJgHHSLEBR_t335-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rTvLtkJgHHSLEBR_t335-19" target="WIyWlLk6GJQsqaUBKTNV-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="-380" as="sourcePoint" />
+            <mxPoint x="340" y="-430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="-110" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-9" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-12" edge="1">
-          <mxGeometry y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="rTvLtkJgHHSLEBR_t335-21" value="&lt;h1&gt;Intro : K 토마토의 삶&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="35" y="-1100" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rTvLtkJgHHSLEBR_t335-22" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="-150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rTvLtkJgHHSLEBR_t335-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rTvLtkJgHHSLEBR_t335-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="-220" as="sourcePoint" />
+            <mxPoint x="180" y="-50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="Bulb&lt;br&gt;burned out?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="130" y="-820" width="100" height="80" as="geometry" />
+        <mxCell id="rTvLtkJgHHSLEBR_t335-24" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="65" y="-70" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Repair Lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="120" y="-680" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Replace Bulb" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="280" y="-800" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rTvLtkJgHHSLEBR_t335-0" value="&lt;h1&gt;Intro : K 토마토&lt;/h1&gt;&lt;p&gt;&amp;gt; K 토마토가 한국 흰띠 두르고 공부 중&lt;/p&gt;&lt;p&gt;&amp;gt; 일반적인 우리나라 책상에서 공부하다가&lt;/p&gt;&lt;p&gt;&amp;gt; 꾸벅 꾸벅&amp;nbsp; (조는 풍선 터지는)&lt;/p&gt;&lt;p&gt;&amp;gt; 토마토의 꿈&lt;/p&gt;&lt;p&gt;&amp;gt; &quot;여기가 어디지...?&quot;&lt;/p&gt;&lt;p&gt;&amp;gt; 어디선가 &quot;대사 대사&quot; &quot;세계지리 어쩌구&quot;&lt;/p&gt;&lt;p&gt;&amp;gt; &quot;어 누구지?&quot; &amp;lt;SKIP&amp;gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;gt; 게임 설명/규칙 간략히&lt;/p&gt;&lt;p&gt;[창을 띄운다] [규칙 포함되어있음. 표시해두고..]&lt;/p&gt;&lt;p&gt;.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="-1110" width="300" height="280" as="geometry" />
+        <mxCell id="rTvLtkJgHHSLEBR_t335-25" value="메인 화면" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="147.5" y="-40" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
